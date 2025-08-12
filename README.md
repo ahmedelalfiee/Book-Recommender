@@ -1,5 +1,8 @@
 # Book Recommender with LLMs
 
+<img width="1873" height="729" alt="image" src="https://github.com/user-attachments/assets/b12a4720-1958-4976-ab74-f3451cdf5686" />
+<br><br>
+
 The semantic book recommneder is composed of five components:
 - Text data cleaning (code in the notebook data-exploration.ipynb)
 - Semantic (vector) search and how to build a vector database (code in the notebook vector-search.ipynb). This allows users to find the most similar books to a natural language query (e.g., "a book about a person seeking revenge").
@@ -20,10 +23,6 @@ This project was created using Python 3.11. In order to run the project, the fol
 - gradio
 - notebook
 - ipywidgets
-- 
+
 A requirements.txt file containing all the project dependencies is provided as part of this repo.
 The data for this project can be downloaded from Kaggle.
-
-ث
-<img width="1873" height="729" alt="image" src="https://github.com/user-attachments/assets/b12a4720-1958-4976-ab74-f3451cdf5686" />
-
