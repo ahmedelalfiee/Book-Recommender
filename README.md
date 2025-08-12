@@ -23,3 +23,7 @@ This project was created using Python 3.11. In order to run the project, the fol
 - 
 A requirements.txt file containing all the project dependencies is provided as part of this repo.
 The data for this project can be downloaded from Kaggle.
+
+ث
+<img width="1873" height="729" alt="image" src="https://github.com/user-attachments/assets/b12a4720-1958-4976-ab74-f3451cdf5686" />
+
